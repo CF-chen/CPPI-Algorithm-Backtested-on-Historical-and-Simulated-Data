@@ -1,5 +1,7 @@
 # Automated Trading System
 
+Data updated on 30 Sep. 2022
+
 This project is based on QuantConnect, which is an algorithmic trading platform that provides various ready-to-go libraries/modules. Some of the libraries/modules were inherited in this project.
 
 The project is a python-based and objective-oriented programming which executes stock selection and portfolio optimisation; rebalanced the portfolio at 1 PM every day. Backtested the algorithm with historical data.
