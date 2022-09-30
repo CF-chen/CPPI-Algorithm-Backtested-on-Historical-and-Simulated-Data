@@ -11,6 +11,7 @@ class TradingBot(QCAlgorithm):
     def Initialize(self):
         # Setup time spam and cash
         self.SetStartDate(2021, 9, 1)
+        self.SetEndDate(2022, 9, 30)
         self.SetCash(100000)
         
         # Data resolution
