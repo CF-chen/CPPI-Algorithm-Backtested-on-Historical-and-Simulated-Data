@@ -10,7 +10,7 @@ from charting import InitCharts, PlotPerformanceChart, PlotPosConcentrationChart
 class TradingBot(QCAlgorithm):
     def Initialize(self):
         # Setup time spam and cash
-        self.SetStartDate(2021, 9, 1)
+        self.SetStartDate(2021, 11, 1)
         self.SetEndDate(2022, 12, 27)
         self.SetCash(100000)
         
