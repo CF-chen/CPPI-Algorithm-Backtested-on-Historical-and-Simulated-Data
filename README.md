@@ -1,6 +1,6 @@
 # Automated Trading System
 
-Data updated on 27 Dec. 2022
+Data updated on 13 Feb. 2023
 
 This project is based on QuantConnect, which is an algorithmic trading platform that provides various ready-to-go libraries/modules. Some of the libraries/modules were inherited in this project.
 
