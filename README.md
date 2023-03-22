@@ -9,3 +9,4 @@ The project is a python-based and objective-oriented programming which executes 
   - Stock selection: filtered high liquid US stocks first and then selected top and bottom 50 ones based on cash return for long/short strategy. 
   - Portfolio optimisation: optimised the portfolio by setting portfolio minimum turnover (to save from transaction fees), positions minimum weights (to avoid overweighted for certain stock) and positions minimum liquidity (to avoid certain stocks in the portfolio taking a tiny amount of stakes).
   - Backtest: summarised key PnL metrics and visualised portfolio performance, e.g. exposure, position concentration, etc.
+
